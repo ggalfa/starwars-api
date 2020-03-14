@@ -22,4 +22,5 @@ Para fazermos as requisições via ajax da api utilizamos a biblioteca **axios**
 O endpoint da api que usamos foi o seguinte **https://swapi.co/api** depois no arquivo **App.js**  
 implementamos a lógica de requisições assíncronicas usando **async awiat** que recebe uma response  
 retornado da api por uma requisição do tipo get do nosso recurso **/especies** que recebe um parâmetro  
-do **?page** para que possamos acessar todos os recursos fornecido.
+do **?page** para que possamos acessar todos os recursos fornecido.  
+Veja a aplicação funcionando [clicando-aqui](https://starwars-especies.netlify.com/).
